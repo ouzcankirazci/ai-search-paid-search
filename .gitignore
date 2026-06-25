@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Note: data/marketing_data.csv and charts/hero_chart.png are intentionally
+# committed so the repo is browsable without running anything.
